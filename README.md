@@ -43,6 +43,6 @@ La opción Disponibilidad puede ser **si (local funcionando)** o **no (local cer
 
 En la lista que tenemos los locales encontrados, teníamos pensado implementar una función que haciendo doble click sobre el local seleccionado lo centrará en el mapa. Escribimos el código pero nos da un error que no pudimos resolver hasta ahora.
 
-Los botones 3 y 4 (Planificar Visitas y Reviews y Calificaciones) no llegamos a agregarlos porque nos aparecian errores que no pudimos resolver.
+Los botones 3 y 4 (Planificar Visitas y Reviews y Calificaciones) no llegamos a agregar los codigos porque nos aparecian errores que no pudimos resolver, solo dejamos las funciones que estaban funcionando bien.
 
 
