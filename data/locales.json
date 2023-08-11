@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "nombre": "El Buen Gusto",
+        "t_cocina": "Regional",
+        "platos": ["Empanadas", "Tamales", "Humitas", "Locro"],
+        "pr_min": 250.00,
+        "pr_max": 3500.00,
+        "popul": 5,
+        "disp": "si",
+        "imagen": "image_1.png",
+        "id_ubicacion": 1
+    },
+    {
+        "id": 2,
+        "nombre": "La Monumental",
+        "t_cocina": "Minutas",
+        "platos": ["Milanesas", "Pizzas", "Carnes", "Pollos"],
+        "pr_min": 650.00,
+        "pr_max": 3800.00,
+        "popul": 3,
+        "disp": "si",
+        "imagen": "image_2.png",
+        "id_ubicacion": 2
+    },
+    {
+        "id": 3,
+        "nombre": "La 12",
+        "t_cocina": "Tradicional",
+        "platos": ["Pescados", "Carnes", "Pollos", "Sandwiches"],
+        "pr_min": 900.00,
+        "pr_max": 2500.00,
+        "popul": 4,
+        "disp": "no",
+        "imagen": "image_3.png",
+        "id_ubicacion": 3
+    },
+    {
+        "id": 4,
+        "nombre": "Donatello",
+        "t_cocina": "Minutas",
+        "platos": ["Empanadas", "Sandwiches", "Pizzas", "Ensaladas"],
+        "pr_min": 450.00,
+        "pr_max": 3500.00,
+        "popul": 4,
+        "disp": "si",
+        "imagen": "image_4.png",
+        "id_ubicacion": 4
+    },
+    {
+        "id": 5,
+        "nombre": "Lo del Negro Copa",
+        "t_cocina": "Regional",
+        "platos": ["Empanadas", "Tamales", "Humitas", "Locro"],
+        "pr_min": 450.00,
+        "pr_max": 2300.00,
+        "popul": 2,
+        "disp": "si",
+        "imagen": "image_5.png",
+        "id_ubicacion": 5
+    },
+    {
+        "id": 6,
+        "nombre": "Pizza Mara",
+        "t_cocina": "Pizzeria",
+        "platos": ["Pizzas", "Tartas", "Calzones", "Sandwiches"],
+        "pr_min": 550.00,
+        "pr_max": 2800.00,
+        "popul": 3,
+        "disp": "si",
+        "imagen": "image_6.png",
+        "id_ubicacion": 6
+    },
+    {
+        "id": 7,
+        "nombre": "Penia Restaurante El Chaquenio P.",
+        "t_cocina": "Regional",
+        "platos": ["Empanadas", "Tamales", "Humitas", "Locro", "Parrilla", "Minutas"],
+        "pr_min": 650.00,
+        "pr_max": 4300.00,
+        "popul": 5,
+        "disp": "si",
+        "imagen": "image_7.png",
+        "id_ubicacion": 7
+    },
+    {
+        "id": 8,
+        "nombre": "Umai Sushi Bar",
+        "t_cocina": "Japonesa",
+        "platos": ["Sushi", "Pescados", "Mariscos", "Wocks de verduras", "Wocks de mixtos"],
+        "pr_min": 850.00,
+        "pr_max": 4800.00,
+        "popul": 4,
+        "disp": "si",
+        "imagen": "image_8.png",
+        "id_ubicacion": 8
+    },
+    {
+        "id": 9,
+        "nombre": "Penia La Vieja Estacion",
+        "t_cocina": "Parrillada y regionales",
+        "platos": ["Empanadas", "Tamales", "Humitas", "Locro", "Especialidad en carnes", "Minutas"],
+        "pr_min": 800.00,
+        "pr_max": 4300.00,
+        "popul": 4,
+        "disp": "si",
+        "imagen": "image_9.png",
+        "id_ubicacion": 9
+    },
+    {
+        "id": 10,
+        "nombre": "El Bodegon",
+        "t_cocina": "Picadas y minutas",
+        "platos": ["Picadas", "Pizzas", "Tartas", "Calzones", "Sandwiches"],
+        "pr_min": 550.00,
+        "pr_max": 3800.00,
+        "popul": 3,
+        "disp": "si",
+        "imagen": "image_10.png",
+        "id_ubicacion": 10
+    }
+]

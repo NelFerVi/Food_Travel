@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "nombre": "Marine",
+        "apellido": "Corvacho",
+        "hist_rutas": []
+    },
+    {
+        "id" : 2,
+        "nombre": "Carlos",
+        "apellido": "Lobos",
+        "hist_rutas": []
+    },
+    {
+        "id" : 3,
+        "nombre": "Federico",
+        "apellido": "Lemos",
+        "hist_rutas": []
+    },
+    {
+        "id" : 4,
+        "nombre": "Nelson",
+        "apellido": "Villalba",
+        "hist_rutas": []
+    }
+]
