@@ -19,7 +19,7 @@ Haciendo simple click sobre uno de los locales de la lista el mapa se centra en 
 
 Haciendo doble click sobre uno de los locales, pasamos a la tercera pantalla con la información de ese local y también nos centra en el mapa ese local y amplía el zoom.
 
-Esta tercera pantalla nos muestra un listBox con la información del local y también otro listBox con las actividades o espectáculos que tiene agendados ese local. De no tener actividades el lisBox aparece vacío. Las actividades estan pre-cargadas en el archivo actividades.json. Hemos colocado algunas actividades en solo algunos locales para poder ver los dos casos cuando hay y cuando no hay actividades.
+Esta tercera pantalla nos muestra un listBox con la información del local y también otro listBox con las actividades o espectáculos que tiene agendados ese local. De no tener actividades el listBox apareceria vacío. Las actividades estan pre-cargadas en el archivo actividades.json. Hemos colocado algunas actividades en solo algunos locales para poder ver los dos casos cuando hay y cuando no hay actividades.
 
 El botón **Regresar a lista** nos permite volver a la segunda pantalla con la lista completa de los locales. Alli podemos elegir otro para ver sus datos y actividades.
 
