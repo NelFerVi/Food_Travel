@@ -11,7 +11,7 @@ from views.vista_busqueda import VistaBusqueda
 from controllers.controlador_inicio import ControladorInicio
 from controllers.controlador_locales import ControladorLocales
 from controllers.controlador_busqueda import ControladorBusqueda
-from controllers.controlador_info import ControladorInfo
+
 
 class Aplicacion(tk.Tk):
     def __init__(self):
