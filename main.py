@@ -1,3 +1,4 @@
+# Importamos los modulos y librerias
 import tkinter as tk
 from models.actividades import Actividad
 from models.local import Local
